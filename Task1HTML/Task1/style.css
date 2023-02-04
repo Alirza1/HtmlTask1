@@ -1,0 +1,30 @@
+.mainDiv {
+
+    width: 40%;
+    margin: auto;
+    border-radius: 20px;
+    padding: 20px;
+    height: auto;
+    display: inline-block;
+}
+
+.box {
+    margin: auto;
+    padding: 10px;
+}
+
+.right-corner {
+    position: relative;
+    bottom: 130px;
+    right: 0px;
+    left: 575px;
+
+}
+
+.innerDiv {
+    display: inline-block;
+}
+
+body {
+    background-color: darkslateblue;
+}
